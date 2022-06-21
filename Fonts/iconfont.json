@@ -1,0 +1,79 @@
+{
+  "id": "3471813",
+  "name": "WPF项目实战合集(2022终结版)_作业1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "774519",
+      "name": "信用卡",
+      "font_class": "xinyongqia",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    },
+    {
+      "icon_id": "907973",
+      "name": "积分",
+      "font_class": "jifen",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "1727401",
+      "name": "43财务-线性",
+      "font_class": "caiwu-xianxing",
+      "unicode": "e8ae",
+      "unicode_decimal": 59566
+    },
+    {
+      "icon_id": "2811147",
+      "name": "会员",
+      "font_class": "huiyuan",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "5875899",
+      "name": "乐分市场",
+      "font_class": "lefenshichang",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "8605730",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "10593835",
+      "name": "用户-角色-用户名-单人_jurassic",
+      "font_class": "jurassic_user",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "15726784",
+      "name": "兑换",
+      "font_class": "duihuan",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "24268393",
+      "name": "积分商城-线型",
+      "font_class": "jifenshangcheng-xianxing",
+      "unicode": "e6db",
+      "unicode_decimal": 59099
+    },
+    {
+      "icon_id": "1367334",
+      "name": "投资",
+      "font_class": "touzi",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    }
+  ]
+}
